@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS position (
+    id INT PRIMARY KEY,
+    x INT NOT NULL
+);

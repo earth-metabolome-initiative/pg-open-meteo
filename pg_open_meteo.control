@@ -1,0 +1,6 @@
+comment = 'pg_open_meteo:  Created by pgrx'
+default_version = '@CARGO_VERSION@'
+module_pathname = '$libdir/pg_open_meteo'
+relocatable = false
+superuser = true
+trusted = false
